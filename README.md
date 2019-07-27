@@ -1,5 +1,5 @@
 # Final Fantasy XIV Market Board
-<img src='/images/Market_Board.jpg'>
+<img src='./images/Market_Board.jpg'>
 ## Objectives:
 1. Index all market board items with their names and ids
 2. Create plots for current prices
